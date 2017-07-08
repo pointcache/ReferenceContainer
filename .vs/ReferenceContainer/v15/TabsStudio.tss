@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>d:\work\referencecontainer\assets\pointcache\referencecontainer\reorderablelist\editor\element adder menu\elementaddermenubuilder.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Work\ReferenceContainer\Assets\ExampleScript.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>d:\work\referencecontainer\assets\pointcache\referencecontainer\reorderablelist\editor\element adder menu\ielementaddermenu.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Work\ReferenceContainer\Assets\pointcache\ReferenceContainer\ReorderableList\Editor\IReorderableListAdaptor.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Work\ReferenceContainer\Assets\pointcache\ReferenceContainer\ReferenceContainer.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>D:\Work\ReferenceContainer\Assets\pointcache\ReferenceContainer\Editor\ReferenceContainerInspector.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
