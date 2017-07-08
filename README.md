@@ -31,3 +31,4 @@ public class ExampleScript : MonoBehaviour {
 
 ```
 
+Check the class itself it has number of useful setter methods for various unity components, add your own as needed.
